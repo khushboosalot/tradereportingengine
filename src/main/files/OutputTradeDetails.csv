@@ -1,0 +1,5 @@
+buyer_party,seller_party,premium_amount,premium_currency
+LEFT_BANK,EMU_BANK,100.00,AUD
+LEFT_BANK,EMU_BANK,200.00,AUD
+EMU_BANK,BISON_BANK,500.00,USD
+EMU_BANK,BISON_BANK,600.00,USD
